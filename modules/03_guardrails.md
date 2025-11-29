@@ -1,3 +1,6 @@
+Change Log (2025-11-29):
+– Confirmed default strict_evidence_mode=true; added explicit WARNING templates for unsupported claims and missing/short sections.
+
 ### Module 3 — Guardrails (internal)
 
 **Goal:** Catch problems early (missing/short sections, hallucinations) and enforce strict evidence rules.
